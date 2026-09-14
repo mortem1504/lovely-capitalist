@@ -1,0 +1,22 @@
+{
+  "version": 1,
+  "assets": 5684,
+  "registry": "src/game/data/assets.json",
+  "portrait": {
+    "frame": [
+      32,
+      32
+    ],
+    "grid": [
+      10,
+      3
+    ],
+    "layerOrder": [
+      "Skins",
+      "Eyes",
+      "Hairstyles",
+      "Accessories"
+    ]
+  },
+  "notes": "Numbered furniture filenames do not encode semantics or direction. Gameplay mappings visually verified; originals untouched."
+}
